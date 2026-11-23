@@ -1,0 +1,2 @@
+# de-partner-change
+Customer-first partner-of-record request form. Browser-only customer data, PDF download, and copyable English email. Digital Economics LLC.
